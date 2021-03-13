@@ -10,8 +10,8 @@ tool sedeharna untuk mencari tahu rating dan sipnosis suatu anime hanya dari jud
 
 <p>Dokumentasi : </p> 
 
-https://user-images.githubusercontent.com/59074036/111042683-23b27180-8471-11eb-874e-e03d0e85a256.mp4
-
+<video src="https://user-images.githubusercontent.com/59074036/111042683-23b27180-8471-11eb-874e-e03d0e85a256.mp4
+"></video>
 
 <h4>================================================================</h4>
 
